@@ -6,5 +6,5 @@ wait(1)
 if mousecheck then
       loadstring(game:HttpGet("https://raw.githubusercontent.com/fsdafzrdgfzrefzesfxsdfxrdg/fxhdgzrdgzrrdg/refs/heads/main/pc.lua"))()
 else
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/drgdrxgdxrhyxdrhedrhesrdherd/dontworry/refs/heads/main/mb.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/fsdafzrdgfzrefzesfxsdfxrdg/fxhdgzrdgzrrdg/refs/heads/main/mb.lua"))()
 end
